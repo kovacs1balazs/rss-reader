@@ -1,0 +1,17 @@
+<news>
+    <item>
+        <title>Szoveges cim</title>
+        <description>Leiras</description>
+        <link>https://www.google.com</link>
+    </item>
+    <item>
+        <title>Szoveges cim 2</title>
+        <description>Leiras 2</description>
+        <link>https://www.google.hu</link>
+    </item>
+    <item>
+        <title>Szoveges cim 3</title>
+        <description>Leiras 3</description>
+        <link>https://www.google.org</link>
+    </item>
+</news>
